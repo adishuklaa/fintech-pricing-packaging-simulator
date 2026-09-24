@@ -1,5 +1,7 @@
 # B2B FinTech Pricing & Packaging Simulator (PayNetix)
 
+![Project Screenshot](screenshots/dashboard.png)
+
 An interactive, scenario-based pricing and packaging simulator for "PayNetix", a fictional B2B payments and financial operations platform. This tool is designed for Product Managers, RevOps, and Sales to model out unit economics, customer lifetime value, and profitability across different volume tiers, packaging options, and support models.
 
 ---
